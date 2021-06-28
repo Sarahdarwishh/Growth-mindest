@@ -1,5 +1,5 @@
 # Markdown 
-######  As simple definition It is an easy way to creating formatted text on the GitHub platform. 
+######  As a simple definition It is an easy way to creating formatted text on the GitHub platform. 
 
 ### It helps the user to perform the following:
 1. He or she makes styled collaborative editing easy (You control the display of the document; formatting words as bold or italic, adding images, and creating lists) 
