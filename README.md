@@ -14,3 +14,7 @@
  3. Effort
  4. Criticism
  5. Success of others
+ 
+ 
+
+[References](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
