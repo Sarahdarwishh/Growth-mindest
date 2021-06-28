@@ -9,7 +9,7 @@
  ![And Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
  
  
- # **Now let's talk about how to maintain a growth mindset:-**
+# **Now let's talk about how to maintain a growth mindset:-**
  1. Challenges
  2. Obstacles
  3. Effort
