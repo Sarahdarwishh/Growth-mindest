@@ -18,4 +18,20 @@
     3. Left-hand-side expressions Ex:new
 
 
+# **Loops and iteration**
+### It help us to repeat something in easy and simple way.
+  #### for statement :we used if we know how many times the code is run 
+  ##### A for statement looks as follows:
+  #### for ([initialExpression]; [conditionExpression]; [incrementExpression] {statement }
+  #### while statement : we used if we don’t  know how many times the code is run
+  ##### A while statement looks as follows:
+  #### while (condition){statement}
+
+
+
+
+
+
+
+
 
