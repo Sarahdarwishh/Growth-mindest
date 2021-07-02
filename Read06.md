@@ -5,12 +5,12 @@
   ### Its general structure : selector{ property  } 
  
 #### Example:
-`h1 {
+    `h1 {
     color: red;
     font-size: 5em;
-  }`
-  #### Three Ways to Insert CSS
-###### There are three ways of inserting a style sheet:
-      1. External CSS
-      2. Internal CSS
-      3. Inline CSS
+    }`
+#### Three Ways to Insert CSS
+  ###### There are three ways of inserting a style sheet:
+        1. External CSS
+        2. Internal CSS
+        3. Inline CSS
