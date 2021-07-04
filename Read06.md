@@ -8,7 +8,7 @@ color: red;
 font-size: 5em;
 }`
  
- ### There are three ways of inserting a style sheet:
+### There are three ways of inserting a style sheet:
 1. External CSS
 2. Internal CSS
 3. Inline CSS
