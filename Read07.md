@@ -25,4 +25,4 @@ general formela
  control flow is mean the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated.
  
 ## purpose of Control flow :
-to validate user data from a webpage then we must build a script force the user to enter correct information, and we can do this by many way for example by using while loop statement
+it help to validate user data from a webpage then we must build a script force the user to enter correct information, and we can do this by many way for example by using while loop statement
