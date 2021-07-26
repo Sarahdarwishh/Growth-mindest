@@ -24,7 +24,7 @@
 |Contents | Links                    |
 | :-----: | :----------------------: | 
 |Read  01 | [click here](read20101.md) |
-|Read  02 | [click here ](Read  02) |
+|Read  02 | [click here ](class-02.md) |
 |Read  03 | [click here ](Read  03) |
 |Read  04 | [click here ](Read  04) |
 |Read  05 | [click here ](Read  05) |
