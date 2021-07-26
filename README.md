@@ -6,9 +6,9 @@
 
 |Contents | Links                    |
 | :-----: | :----------------------: | 
-|Read  01 | [click here](read20101.md) |
+|class-01 | [click here](read20101.md)|
 |class-02 | [click here ](class-02.md)|
-|Read  03 | [click here ](Read  03) |
+|class-03 | [click here ](class-03.md)|
 |Read  04 | [click here ](Read  04) |
 |Read  05 | [click here ](Read  05) |
 |Read  06 | [click here ](Read  06) |

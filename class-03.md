@@ -29,8 +29,44 @@ Types of lists :
 
  # 
 
- #
+ # Chapter 4: “Decisions and Loops
+  
+The difference between if and switch state
+
+IF :
+
+1. There is no need to provide an else option. 
+2. it performs more slowly than switch .
+
+switch :
+1. You have a default option that is run if none of the cases match 
+2. providing better performance than multiple if statements.
 
 
+**Why switch is faster and better than if ?**
+ 
+ * With a series of if statements, they are all checked even if a match has been found.
+ *  If a match is found, that code is run; then the break statement stops the rest of the switch statement running .
+
+ ***TRUTHY & FALSY VALUES*** 
+
+**Falsy values :**
+
+1. The traditional Boolean fa1se.
+2. The number zero.
+3. Empty value `"" `
+4. A variable with no value assigned to it .
+5. Nan (not a number) 10/ ``score``.
+
+
+**Truthy values :**
+
+1. The traditional Boolean true .
+2. Numbers other than zero .
+3. Strings with content
+4. Number calculations. 10/5
+5. true written as a string.
+6. Zero written as a string.
+7. fa1se written as a string 
 
 
