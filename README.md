@@ -4,14 +4,14 @@
 
 # Table of content of 201 reading notes
 
-|Contents | Links                    |
-| :-----: | :----------------------: | 
-|class-01 | [click here](read20101.md)|
-|class-02 | [click here ](class-02.md)|
-|class-03 | [click here ](class-03.md)|
-|Read  04 | [click here ](Read  04) |
-|Read  05 | [click here ](Read  05) |
-|Read  06 | [click here ](Read  06) |
+|Contents | Links                        |
+| :-----: | :----------------------:     | 
+|class-01 | [click here](read20101.md)   |
+|class-02 | [click here ](class-02.md)   |
+|class-03 | [click here ](class-03.md)   |
+|class-04 | [click here ](class04.md)      |
+|Read  05 | [click here ](Read  05)      |
+|Read  06 | [click here ](Read  06)      |
 |Read  07 | [click here ](Read  07) |
 |Read  08 | [click here ](Read  08) |
 |Read  09 | [click here ](Read  09) |
