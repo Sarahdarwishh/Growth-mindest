@@ -10,7 +10,7 @@
 |class-02 | [click here ](class-02.md)   |
 |class-03 | [click here ](class-03.md)   |
 |class-04 | [click here ](class04.md)      |
-|Read  05 | [click here ](Read  05)      |
+|class-05 | [click here ](class05.md)|
 |Read  06 | [click here ](Read  06)      |
 |Read  07 | [click here ](Read  07) |
 |Read  08 | [click here ](Read  08) |
