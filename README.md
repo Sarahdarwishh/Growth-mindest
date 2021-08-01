@@ -11,7 +11,7 @@
 |class-03 | [click here ](class-03.md)   |
 |class-04 | [click here ](class04.md)    |
 |class-05 | [click here ](class05.md)|
-|Read  06 | [click here ](Read  06)      |
+|class-06 | [click here ](class06.md)  |
 |Read  07 | [click here ](Read  07) |
 |Read  08 | [click here ](Read  08) |
 |Read  09 | [click here ](Read  09) |
