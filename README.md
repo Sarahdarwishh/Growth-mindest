@@ -16,7 +16,7 @@
 |class  08 | [click here ](class08.md) |
 |class  09 | [click here ](class09.md) |
 |class  10 | [click here ](class10.md) |
-|Read  11 | [click here ](Read  11) |
+|class  11 | [click here ](class11.md) |
 |Read  12 | [click here ](Read  12) |
 |Read  13 | [click here ](Read  13) |
 |Read  14 | [click here ](Read  14) |
