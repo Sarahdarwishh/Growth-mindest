@@ -1,4 +1,5 @@
 
+ #  Chart.js, Canvas
 
 ***What is a Chart.js ?***
 its a way to draw graph onto the html page using HTML5’s canvas element.
