@@ -27,7 +27,7 @@
 
 |Contents | Links                        |
 | :-----: | :----------------------:     | 
-|class-01 | [click here]()   |
+|class-01 | [click here](class30101.md)   |
 |class-02 | [click here ]()   |
 |class-03 | [click here ]()   |
 |class-04 | [click here ]()    |
