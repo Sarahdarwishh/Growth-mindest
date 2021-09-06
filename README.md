@@ -29,7 +29,7 @@
 | :-----: | :----------------------:     | 
 |class-01 | [click here](class30101.md)   |
 |class-02 | [click here ](class30102.md)   |
-|class-03 | [click here ]()   |
+|class-03 | [click here ](class30103.md)   |
 |class-04 | [click here ]()    |
 |class-05 | [click here ]()|
 |class-06 | [click here ]()  |
